@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Code_Sharing_Platform.iml" filepath="$PROJECT_DIR$/.idea/modules/Code_Sharing_Platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Code_Sharing_Platform.Problems-Avoid_NPE.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Code_Sharing_Platform.Problems-Avoid_NPE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Code_Sharing_Platform.Problems-Avoid_NPE.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Code_Sharing_Platform.Problems-Avoid_NPE.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Code_Sharing_Platform.Problems-Avoid_NPE.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Code_Sharing_Platform.Problems-Avoid_NPE.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pastry packing optimization/Code_Sharing_Platform.Problems-Pastry_packing_optimization.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pastry packing optimization/Code_Sharing_Platform.Problems-Pastry_packing_optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pastry packing optimization/Code_Sharing_Platform.Problems-Pastry_packing_optimization.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pastry packing optimization/Code_Sharing_Platform.Problems-Pastry_packing_optimization.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pastry packing optimization/Code_Sharing_Platform.Problems-Pastry_packing_optimization.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pastry packing optimization/Code_Sharing_Platform.Problems-Pastry_packing_optimization.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Code_Sharing_Platform.Problems-Return_empty_string_when_argument_is_null.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Code_Sharing_Platform.Problems-Return_empty_string_when_argument_is_null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Code_Sharing_Platform.Problems-Return_empty_string_when_argument_is_null.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Code_Sharing_Platform.Problems-Return_empty_string_when_argument_is_null.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Code_Sharing_Platform.Problems-Return_empty_string_when_argument_is_null.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Code_Sharing_Platform.Problems-Return_empty_string_when_argument_is_null.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Code_Sharing_Platform.Problems-Safe_converting.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Code_Sharing_Platform.Problems-Safe_converting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Code_Sharing_Platform.Problems-Safe_converting.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Code_Sharing_Platform.Problems-Safe_converting.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Code_Sharing_Platform.Problems-Safe_converting.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Code_Sharing_Platform.Problems-Safe_converting.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.test.iml" />
+    </modules>
+  </component>
+</project>

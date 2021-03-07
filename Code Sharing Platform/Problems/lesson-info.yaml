@@ -1,0 +1,5 @@
+content:
+- Avoid NPE
+- Return empty string when argument is null
+- Safe converting
+- Pastry packing optimization
